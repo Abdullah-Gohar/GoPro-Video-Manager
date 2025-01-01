@@ -14,7 +14,7 @@
 ---
 
 ## Download
-To use the pre-built version of the manager, download the executable and necessary files from: [Download Link](https://drive.google.com/file/d/1DZ1qtAtyeDoUPhrvL8EYPU5TJrTYa9Kn/view?usp=sharing).
+To use the pre-built version of the manager, download the executable and necessary files from: [Download Link](https://www.mediafire.com/file/9omky6no7kkgzmy/GoPro+Video+Manager.zip/file).
 
 ---
 
