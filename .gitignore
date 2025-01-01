@@ -5,6 +5,7 @@ exe
 download.py
 */*.exe
 output
+app
 # exiftool_files
 
 # Byte-compiled / optimized / DLL files
